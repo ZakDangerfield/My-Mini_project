@@ -1,0 +1,3 @@
+drinks = ['Coke', 'Pepsi', 'Coca-Cola','Sprite','Fanta','Schweppes','Appletiser','Fresca','Barqs']
+snacks = [ "Nachos", "Popcorn", "Crackers", "Pretzels", "Granola Bars", "Peanuts", "Dried Fruit"]
+couriers = []
